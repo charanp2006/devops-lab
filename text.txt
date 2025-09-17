@@ -2,4 +2,5 @@ vvce
 cse
 5th sem
 devops lab
-testing pr
+testing pr - for merge
+testing pr - for close
